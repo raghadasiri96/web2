@@ -1,0 +1,12 @@
+C:\Users\Digi\source\repos\demo.API\demo.Core\bin\Debug\net6.0\demo.Core.deps.json
+C:\Users\Digi\source\repos\demo.API\demo.Core\bin\Debug\net6.0\demo.Core.dll
+C:\Users\Digi\source\repos\demo.API\demo.Core\bin\Debug\net6.0\demo.Core.pdb
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\demo.Core.csproj.AssemblyReference.cache
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\demo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\demo.Core.AssemblyInfoInputs.cache
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\demo.Core.AssemblyInfo.cs
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\demo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\demo.Core.dll
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\refint\demo.Core.dll
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\demo.Core.pdb
+C:\Users\Digi\source\repos\demo.API\demo.Core\obj\Debug\net6.0\ref\demo.Core.dll
